@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Lala Hakobyan - a Senior Front-end Engineer, Tech Lead and Technical Author.
 
 <!--
 **lala-hakobyan/lala-hakobyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
