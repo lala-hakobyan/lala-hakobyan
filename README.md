@@ -14,7 +14,7 @@ I also share practical knowledge on LinkedIn around front-end architecture, perf
 
 ### Featured Projects
 
-#### [Front-end Debugging Tools Handbook](https://github.com/lala-hakobyan/frontend-debugging-handbook)
+#### [Front-end Debugging Tools Handbook](https://github.com/lala-hakobyan/front-end-debugging-handbook)
 
 A 200+ page practical guide to debugging, optimizing and monitoring modern front-end applications, from foundational concepts to advanced techniques.
 
