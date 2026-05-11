@@ -34,7 +34,7 @@ A 200+ page practical guide to debugging, optimizing and monitoring modern front
     - **[React Vite Todo POC App (Redux Store)](https://github.com/lala-hakobyan/react-poc/tree/debugging-handbook-demo-v1/apps/todo-app-vite)**
     - **[Angular SSR Shop POC App (Custom Signal Store)](https://github.com/lala-hakobyan/angular-poc/tree/debugging-handbook-demo-v1/apps/shop-app-ng)**
 
-#### [React & Next.js Architecture POC](https://github.com/lala-hakobyan/react-poc)
+#### [React & Next.js Architecture POC](https://github.com/lala-hakobyan/react-poc/tree/main/apps/note-app-nextjs)
 
 A React/Next.js POC skeleton designed to serve as a foundation for scalable and maintainable mid-sized production projects. It can also be used as an architecture foundation for an application that serves as a standalone micro-frontend.
 
@@ -51,7 +51,7 @@ A lightweight benchmarking project that analyzes the performance of various Java
 
 #### [Technical Knowledge Base](https://github.com/lala-hakobyan/tech-knowledge-base)
 
-Public repository documenting personal experience, research, POCs and deep dives into front-end Angular, React and full-stack engineering.
+Public repository documenting personal experience, research, POCs and deep dives into front-end (Angular, React) and full-stack engineering.
 
 - **Scope:** Architecture, front-end architecture (Angular, React and micro-frontends), AI (Chrome Built-in AI and Chrome DevTools MCP Server), front-end design patterns, OOP, SOLID and clean code principles, front-end state management and team productivity.
 
