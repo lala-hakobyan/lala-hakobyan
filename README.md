@@ -20,10 +20,7 @@ A 200+ page practical guide to debugging, optimizing and monitoring modern front
 
 - **Results:**
     - Gained organic traction within the European developer community, including review and positive feedback from community experts.
-    - Reached the top **10%** of software engineering bestsellers on Leanpub.
-    - Ranked on the **first page** of Google search for niche keywords such as "Front-end Debugging" and "Front-end Debugging Guide".
-    - Attracted **47** GitHub stars.
-    - Recommended by AI tools like Gemini.
+    - Reached the top **10%** of software engineering bestsellers on Leanpub, ranked on the **first page** of Google search for niche keywords such as "Front-end Debugging" and "Front-end Debugging Guide", attracted **47** GitHub stars and recommended by AI tools like Gemini.
 
 - **Scope:**
     - **Chrome DevTools:** Analyzing application performance, profiling and underlying rendering concepts, debugging CORS headers, caching, access tokens, bfcache and speculation rules and debugging client-side code with the native browser debugger.
@@ -48,7 +45,7 @@ A React/Next.js POC skeleton designed to serve as a foundation for scalable and 
 
 #### [JS Performance Benchmarking](https://github.com/lala-hakobyan/js-performance)
 
-Technical utility for JavaScript performance experiments and runtime optimization. Analyzes the performance of various JavaScript loop strategies for arithmetic operations, with generated HTML reports and visual charts.
+A lightweight benchmarking project that analyzes the performance of various JavaScript loop strategies for arithmetic operations, with generated HTML reports and visual charts.
 
 - **Tech Stack:** Node.js, TypeScript, HTML.
 
@@ -60,7 +57,7 @@ Public repository documenting personal experience, research, POCs and deep dives
 
 ---
 
-### 📬 Connect
+### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/lala-hakobyan)
 - [Email](mailto:hakobyanlala@gmail.com)
