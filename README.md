@@ -48,7 +48,7 @@ A React/Next.js POC skeleton designed to serve as a foundation for scalable and 
 
 #### [JS Performance Benchmarking](https://github.com/lala-hakobyan/js-performance)
 
-Technical utility for performance experiments and runtime optimization. Analyzes the performance of various JavaScript loop strategies for arithmetic operations, with generated HTML reports and visual charts.
+Technical utility for JavaScript performance experiments and runtime optimization. Analyzes the performance of various JavaScript loop strategies for arithmetic operations, with generated HTML reports and visual charts.
 
 - **Tech Stack:** Node.js, TypeScript, HTML.
 
