@@ -20,7 +20,7 @@ A 200+ page practical guide to debugging, optimizing and monitoring modern front
 
 - **Results:**
     - Gained organic traction within the European developer community, including review and positive feedback from community experts.
-    - Reached the top **10%** of software engineering bestsellers on Leanpub, ranked on the **first page** of Google search for niche keywords such as "Front-end Debugging" and "Front-end Debugging Guide", attracted **47** GitHub stars and recommended by AI tools like Gemini.
+    - Reached the top **10%** of software engineering bestsellers on Leanpub, ranked on the **first page** of Google search for niche keywords such as "Front-end Debugging" and "Front-end Debugging Guide", attracted **~50** GitHub stars and recommended by AI tools like Gemini.
 
 - **Scope:**
     - **Chrome DevTools:** Analyzing application performance, profiling and underlying rendering concepts, debugging CORS headers, caching, access tokens, bfcache and speculation rules and debugging client-side code with the native browser debugger.
