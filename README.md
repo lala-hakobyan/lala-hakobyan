@@ -6,7 +6,7 @@ I specialize in JavaScript, TypeScript, React, Next.js, Angular and Node.js. My 
 
 **What you will find here:**
 
-* **Author of the Front-end Debugging Tools Handbook:** A 200+ page guide that reached the top 10% of software engineering bestsellers on Leanpub.
+* **Author of the Front-end Debugging Tools Handbook:** A 200+ page guide to debugging tools for modern, complex front-end applications that reached the top 10% of software engineering bestsellers on Leanpub.
 * **Architecture Foundations:** Starter projects to serve as foundations for scalable and maintainable production apps with React, Next.js and Angular.
 * **Performance Benchmarking:** Custom tooling for measuring rendering and execution metrics (TTFB, LCP, JS loop efficiency) and technical documentation on applying raw browser optimizations.
 * **Technical Knowledge Base:** A repository documenting personal research, architectural experiments and deep dives into front-end and full-stack engineering principles.
