@@ -15,6 +15,7 @@ I also actively share practical knowledge on LinkedIn around front-end architect
 
 For feedback, questions, meaningful tech conversations and interesting collaborations, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/lala-hakobyan) or via [Email](mailto:hakobyanlala@gmail.com).
 
+
 ---
 
 ### Featured Projects
