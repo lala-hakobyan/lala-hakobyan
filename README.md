@@ -48,7 +48,7 @@ A React/Next.js starter project designed to serve as a foundation for scalable a
 - **Scope:**
   - **Scalable and maintainable architecture:** Centralized state management with Zustand using slicing, scalable folder structure and isolation of data API, cache and logger layers through separate dedicated services.
   - **React design patterns:** Layout pattern for arranging components on the screen, Hooks pattern for isolating primary business logic, Compound Components pattern for the modal and Singleton pattern for all services.
-
+  - **Debugging Experiments:** Also serves as the primary companion project for the Front-end Debugging Tools Handbook, hosting its hands-on debugging and performance experiments.
 
 #### [Micro-frontend Architecture Workspace](https://github.com/lala-hakobyan/micro-frontend-architecture)
 
